@@ -1,0 +1,5 @@
+{
+  "prefix": "{red}[{gold}Auto{red}C4{gold}Giver{red}]{default}",
+  "autoc4giver.c4_received": "You have received the {gold}C4{default}!",
+  "autoc4giver.no_terrorists": "No terrorists available to receive the C4."
+}
